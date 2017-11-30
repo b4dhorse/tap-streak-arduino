@@ -1,3 +1,4 @@
+//Main file for Tap Streak on the Arduino
 #include <Wire.h>
 #include "Adafruit_Trellis.h"
 
